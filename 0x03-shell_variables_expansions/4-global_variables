@@ -1,0 +1,4 @@
+#!/bin/bash
+^c
+chmod u+x 4-blobal_variables
+
